@@ -40,7 +40,7 @@ public class Main {
 
 
         // --- LÍNEA 6 ---
-
+        zoo.add(new Gato("Garfield"));
 
         // --- LÍNEA 7 ---
 
