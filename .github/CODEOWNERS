@@ -2,3 +2,4 @@
 /src/com/virreymorcillo/zoo/model/Animal.java   @ccnl10
 /src/com/virreymorcillo/zoo/model/Pet.java   @ccnl10
 /.github/CODEOWNERS   @ccnl10
+/.github/workflows/   @ccnl10
