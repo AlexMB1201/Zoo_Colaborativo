@@ -1,0 +1,3 @@
+# Clases protegidas: solo el profesor puede aprobar cambios
+   /src/com/virreymorcillo/zoo/model/Animal.java   @ccnl10
+   /src/com/virreymorcillo/zoo/model/Pet.java   @ccnl10
