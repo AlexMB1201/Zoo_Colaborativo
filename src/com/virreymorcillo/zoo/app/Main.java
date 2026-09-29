@@ -42,7 +42,7 @@ public class Main {
         zoo.add(new Perro("Mark"));
 
         // --- LÍNEA 6 ---
-
+        zoo.add(new Gato("Garfield"));
 
         // --- LÍNEA 7 ---
 
