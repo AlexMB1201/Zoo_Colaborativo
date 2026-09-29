@@ -28,7 +28,6 @@ public class Main {
         zoo.add(new Oso("panda"));
 
         // --- LÍNEA 2 ---
-        zoo.add(new Zorro("theo"));
 
 
         // --- LÍNEA 3 ---
