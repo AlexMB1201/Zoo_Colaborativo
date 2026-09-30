@@ -6,6 +6,6 @@ public class Rinoceronte extends Animal{
     }
     @Override
     public void makeSound() {
-        System.out.println(nombre + " pega un berrido.");
+        System.out.println(nombre + " pega un berrido y se acuesta.");
     }
 }

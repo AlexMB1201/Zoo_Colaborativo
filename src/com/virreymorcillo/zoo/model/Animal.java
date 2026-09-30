@@ -18,6 +18,8 @@ public abstract class Animal {
         return nombre;
     }
 
+    public String nombre2(){return nombre + " y " + nombre;}
+
     // Método abstracto: cada subclase decide cómo suena su animal.
     public abstract void makeSound();
 }
