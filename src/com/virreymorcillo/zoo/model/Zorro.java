@@ -6,6 +6,5 @@ public class Zorro extends Animal {
     @Override
     public void makeSound() {
         System.out.println("El zorro hace: ¡Auuuu!");
-        System.out.println("El zorro hace: ¡Auuuuuu!");
     }
 }
