@@ -1,5 +1,6 @@
 # Clases protegidas: solo el profesor puede aprobar cambios
-/src/com/virreymorcillo/zoo/model/Animal.java   @ccnl10
-/src/com/virreymorcillo/zoo/model/Pet.java   @ccnl10
-/.github/CODEOWNERS   @ccnl10
-/.github/workflows/   @ccnl10
+/src/com/virreymorcillo/zoo/model/Animal.java   @AlexMB1201
+/src/com/virreymorcillo/zoo/model/Pet.java   @AlexMB1201
+/src/com/virreymorcillo/zoo/model/Rinoceronte.java   @AlexMB1201
+/.github/CODEOWNERS   @AlexMB1201
+/.github/workflows/   @AlexMB1201
